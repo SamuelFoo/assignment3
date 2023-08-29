@@ -35,7 +35,7 @@ source install/setup.bash
 ros2 run assignment3 detector
 ```
 
-The default code publishes a gray scaled version of the images from the `session3bags` to the `red_sectors` topic.
+The default code publishes a gray scaled version of the images from the `session3bags` to the `/detected/debug_img` topic.
 
 If you are using RQT to visualise your images,
 you should be able to display the gray scaled version of the images like so
