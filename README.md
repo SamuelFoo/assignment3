@@ -35,4 +35,11 @@ source install/setup.bash
 ros2 run assignment3 detector
 ```
 
-The default code publishes a gray scaled version of the images recieved from the `session3bags`.
+The default code publishes a gray scaled version of the images from the `session3bags` to the `red_sectors` topic.
+
+If you are using RQT to visualise your images,
+you should be able to display the gray scaled version of the images like so
+
+![image](https://github.com/hornetnine/assignment3/assets/143057023/1d3555c7-bae0-49b2-addb-bc664ef30c7a)
+
+Note the original image from the bag file is on the left, and the published image is on the right.
