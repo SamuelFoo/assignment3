@@ -273,7 +273,7 @@ def main(args=None):
     rclpy.init(args=args)
     detector = Detector()
 
-    if WRITE_FLAG:
+    if not WRITE_FLAG:
         rclpy.spin(detector)
     else:
         try:
