@@ -1,0 +1,10 @@
+detector_threshold.mp4
+detector_yolo.mp4
+yolo_validation.avi
+YOLO/detect
+YOLO/track
+YOLO/runs
+YOLO/validation
+obj.data
+obj.names
+train.txt

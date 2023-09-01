@@ -1,3 +1,10 @@
+# Solution Requirements
+
+Ultralytics: if training is desired.  
+OpenCV Contrib 4.8.0
+FFMPEG or suitable video codec
+Wants CUDA enabled for faster inference
+
 # Hornet 9.0 Software Assignment 3
 
 This repository contains a ROS2 package called "assignment3". It includes a basic detector node.
