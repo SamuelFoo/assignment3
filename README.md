@@ -5,6 +5,17 @@ OpenCV Contrib 4.8.0
 FFMPEG or suitable video codec
 Wants CUDA enabled for faster inference
 
+
+https://github.com/SamuelFoo/assignment3/assets/26446878/fe67c9fb-5aeb-4ed9-9fd5-d72225d1e1b2
+
+<p align="center">Video 1: Thresholding</p>
+<br />
+
+https://github.com/SamuelFoo/assignment3/assets/26446878/847fb05d-3e4b-417c-afab-a4a919a83b8a
+
+<p align="center">Video 2: YOLO Object Detection</p>
+<br />
+
 # Hornet 9.0 Software Assignment 3
 
 This repository contains a ROS2 package called "assignment3". It includes a basic detector node.
