@@ -11,7 +11,7 @@ https://github.com/SamuelFoo/assignment3/assets/26446878/fe67c9fb-5aeb-4ed9-9fd5
 <p align="center">Video 1: Thresholding</p>
 <br />
 
-https://github.com/SamuelFoo/assignment3/assets/26446878/847fb05d-3e4b-417c-afab-a4a919a83b8a
+https://github.com/SamuelFoo/assignment3/assets/26446878/117357a8-58e7-49a4-9013-8035cb1c1a5b
 
 <p align="center">Video 2: YOLO Object Detection</p>
 <br />
